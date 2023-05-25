@@ -1,0 +1,356 @@
+{
+  "redirects": [
+    {
+      "source": "/conditions-we-treat/index.html",
+      "destination": "/conditions-we-treat/"
+    },
+    {
+      "source": "/conditions-we-treat/car-accident-injury/index.html",
+      "destination": "/conditions-we-treat/car-accident-injury/"
+    },
+    {
+      "source": "/conditions-we-treat/car-accident-injury/index.html",
+      "destination": "/conditions-we-treat/car-accident-injury/"
+    },
+    {
+      "source": "/conditions-we-treat/sports-injury/index.html",
+      "destination": "/conditions-we-treat/sports-injury/"
+    },
+    {
+      "source": "/conditions-we-treat/back-pain/index.html",
+      "destination": "/conditions-we-treat/back-pain/"
+    },
+    {
+      "source": "/conditions-we-treat/headaches/index.html",
+      "destination": "/conditions-we-treat/headaches/"
+    },
+    {
+      "source": "/conditions-we-treat/neck-pain/index.html",
+      "destination": "/conditions-we-treat/neck-pain/"
+    },
+    {
+      "source": "/conditions-we-treat/joint-pain/index.html",
+      "destination": "/conditions-we-treat/joint-pain/"
+    },
+    {
+      "source": "/conditions-we-treat/knee-pain/index.html",
+      "destination": "/conditions-we-treat/knee-pain/"
+    },
+    {
+      "source": "/contact-locations/richardson/index.html",
+      "destination": "/contact-locations/richardson/"
+    },
+    {
+      "source": "/contact-locations/north-richland-hills/index.html",
+      "destination": "/contact-locations/north-richland-hills/"
+    },
+    {
+      "source": "/contact-locations/fort-worth/index.html",
+      "destination": "/contact-locations/fort-worth/"
+    },
+    {
+      "source": "/contact-locations/hillsboro/index.html",
+      "destination": "/contact-locations/hillsboro/"
+    },
+    {
+      "source": "/contact-locations/lancaster/index.html",
+      "destination": "/contact-locations/lancaster/"
+    },
+    {
+      "source": "/contact-locations/corsicana/index.html",
+      "destination": "/contact-locations/corsicana"
+    },
+    {
+      "source": "/contact-locations/farmers-branch/index.html",
+      "destination": "/contact-locations/farmers-branch/"
+    },
+    {
+      "source": "/contact-locations/decatur/index.html",
+      "destination": "/contact-locations/decatur/"
+    },
+    {
+      "source": "/contact-locations/index.html",
+      "destination": "/contact-locations/"
+    },
+    {
+      "source": "/video-testimonials/index.html",
+      "destination": "/video-testimonials/"
+    },
+    {
+      "source": "/privacy-policy/index.html",
+      "destination": "/privacy-policy/"
+    },
+    {
+      "source": "/contact-locations/waxahachie/index.html",
+      "destination": "/contact-locations/waxahachie/"
+    },
+    {
+      "source": "/educational-videos/index.html",
+      "destination": "/educational-videos/"
+    },
+    {
+      "source": "/patient-info/index.html",
+      "destination": "/patient-info/"
+    },
+    {
+      "source": "/about/index.html",
+      "destination": "/about/"
+    },
+    {
+      "source": "/index.html",
+      "destination": "/"
+    },
+    {
+      "source": "/feed/",
+      "destination": "/"
+    },
+    {
+      "source": "/meet-our-team/rao-k-ali/index.html",
+      "destination": "/meet-our-team/rao-k-ali/"
+    },
+    {
+      "source": "/meet-our-team/dr-muhammad-zulqarnain-dr-z-/index.html",
+      "destination": "/meet-our-team/dr-muhammad-zulqarnain-dr-z-/"
+    },
+    {
+      "source": "/meet-our-team/ranjit-sandhu/index.html",
+      "destination": "/meet-our-team/ranjit-sandhu/"
+    },
+    {
+      "source": "/blog/knee-pain/knee-pain-location-chart-helps-to-find-possible-causes-of-pain-and-diagnosis/",
+      "destination": "/blog/knee-pain-location-chart-helps-to-find-possible-causes-of-pain-and-diagnosis/"
+    },
+    {
+      "source": "/blog/knee-pain/sharp-stabbing-pain-in-knee-comes-and-goes/",
+      "destination": "/blog/knee-pain/11-causes-why-sharp-stabbing-pain-in-knee-comes-and-goes/"
+    },
+    {
+      "source": "/blog/5-best-recliners-for-back-pain/",
+      "destination": "/blog/update/5-best-recliners-for-back-pain/"
+    },
+    {
+      "source": "/conditions-we-treat/conditions-we-treat/",
+      "destination": "/conditions-we-treat/"
+    },
+    {
+      "source": "/blog/lower-back-pain-that-radiates-to-front-pelvic-area/",
+      "destination": "blog/back-pain/lower-back-pain-that-radiates-to-front-pelvic-area/"
+    },
+    {
+      "source": "/blog/video-testimonials/",
+      "destination": "/blog/"
+    },
+    {
+      "source": "/blog/[...slug]",
+      "destination": "/blog/"
+    },
+    {
+      "source": "/news/contact-locations/corsicana/",
+      "destination": "/contact-locations/corsicana/"
+    },
+    {
+      "source": "/blog/about/",
+      "destination": "/blog/"
+    },
+    {
+      "source": "/blog/meet-our-team/",
+      "destination": "/meet-our-team/"
+    },
+    {
+      "source": "/news/contact-locations/farmers-branch/",
+      "destination": "/contact-locations/farmers-branch/"
+    },
+    {
+      "source": "/news/contact-locations/lancaster/",
+      "destination": "/contact-locations/lancaster/"
+    },
+    {
+      "source": "/news/contact-locations/hillsboro/",
+      "destination": "/contact-locations/hillsboro/"
+    },
+    {
+      "source": "/news/contact-locations/north-richland-hills/",
+      "destination": "/contact-locations/north-richland-hills/"
+    },
+    {
+      "source": "/news/contact-locations/fort-worth/",
+      "destination": "/contact-locations/fort-worth/"
+    },
+    {
+      "source": "/news/contact-locations/waxahachie/",
+      "destination": "/contact-locations/waxahachie/"
+    },
+    {
+      "source": "/news/contact-locations/richardson/",
+      "destination": "/contact-locations/richardson/"
+    },
+    {
+      "source": "/news/contact-locations/",
+      "destination": "/contact-locations/"
+    },
+    {
+      "source": "/news/patient-forms/",
+      "destination": "/patient-forms/"
+    },
+    {
+      "source": "/news/educational-videos/",
+      "destination": "/educational-videos/"
+    },
+    {
+      "source": "/news/conditions-we-treat/joint-pain/",
+      "destination": "/conditions-we-treat/joint-pain/"
+    },
+    {
+      "source": "/news/conditions-we-treat/neck-pain/",
+      "destination": "/conditions-we-treat/neck-pain/"
+    },
+    {
+      "source": "/news/conditions-we-treat/headaches/",
+      "destination": "/conditions-we-treat/headaches/"
+    },
+    {
+      "source": "/news/conditions-we-treat/knee-pain/",
+      "destination": "/conditions-we-treat/knee-pain/"
+    },
+    {
+      "source": "/news/conditions-we-treat/back-pain/",
+      "destination": "/conditions-we-treat/back-pain/"
+    },
+    {
+      "source": "/news/conditions-we-treat/sports-injury/",
+      "destination": "/conditions-we-treat/sports-injury/"
+    },
+    {
+      "source": "/news/patient-info/",
+      "destination": "/patient-info/"
+    },
+    {
+      "source": "/news/conditions-we-treat/car-accident-injury/",
+      "destination": "/conditions-we-treat/car-accident-injury/"
+    },
+    {
+      "source": "/news/conditions-we-treat/",
+      "destination": "/conditions-we-treat/"
+    },
+    {
+      "source": "/news/about/careers/",
+      "destination": "/about/careers/"
+    },
+    {
+      "source": "/news/reviews/",
+      "destination": "/reviews//"
+    },
+    {
+      "source": "/news/meet-our-team/",
+      "destination": "/meet-our-team/"
+    },
+    {
+      "source": "/news/about/",
+      "destination": "/about/"
+    },
+    {
+      "source": "/news/[slug]/",
+      "destination": "/news/"
+    },
+    {
+      "source": "/news/video-testimonials/",
+      "destination": "/video-testimonials/"
+    },
+    {
+      "source": "/blog/everything-youve-ever-wanted-to-know-about-pain-management-doctors/",
+      "destination": "/blog/treatments/everything-youve-ever-wanted-to-know-about-pain-management-doctors/"
+    },
+    {
+      "source": "/blog/contact-locations/corsicana/",
+      "destination": "/contact-locations/corsicana/"
+    },
+    {
+      "source": "/blog/contact-locations/farmers-branch/",
+      "destination": "/contact-locations/farmers-branch/"
+    },
+    {
+      "source": "/blog/contact-locations/lancaster/",
+      "destination": "/contact-locations/lancaster/"
+    },
+    {
+      "source": "/blog/about/careers/",
+      "destination": "/about/careers/"
+    },
+    {
+      "source": "/blog/conditions-we-treat/",
+      "destination": "/conditions-we-treat/"
+    },
+    {
+      "source": "/blog/conditions-we-treat/car-accident-injury/",
+      "destination": "/conditions-we-treat/car-accident-injury/"
+    },
+    {
+      "source": "/blog/patient-info/",
+      "destination": "/patient-info/"
+    },
+    {
+      "source": "/blog/conditions-we-treat/sports-injury/",
+      "destination": "/conditions-we-treat/sports-injury/"
+    },
+    {
+      "source": "/blog/conditions-we-treat/back-pain/",
+      "destination": "/conditions-we-treat/back-pain/"
+    },
+    {
+      "source": "/blog/conditions-we-treat/knee-pain/",
+      "destination": "/conditions-we-treat/knee-pain/"
+    },
+    {
+      "source": "/blog/conditions-we-treat/headaches/",
+      "destination": "/conditions-we-treat/headaches/"
+    },
+    {
+      "source": "/blog/conditions-we-treat/joint-pain/",
+      "destination": "/conditions-we-treat/joint-pain/"
+    },
+    {
+      "source": "/blog/educational-videos/",
+      "destination": "/educational-videos/"
+    },
+    {
+      "source": "/blog/patient-forms/",
+      "destination": "/patient-forms/"
+    },
+    {
+      "source": "/blog/reviews/",
+      "destination": "/reviews/"
+    },
+    {
+      "source": "/blog/contact-locations//",
+      "destination": "/contact-locations/"
+    },
+    {
+      "source": "/blog/contact-locations/richardson/",
+      "destination": "/contact-locations/richardson/"
+    },
+    {
+      "source": "/blog/contact-locations/waxahachie/",
+      "destination": "/contact-locations/waxahachie/"
+    },
+    {
+      "source": "/blog/contact-locations/north-richland-hills/",
+      "destination": "/contact-locations/north-richland-hills/"
+    },
+    {
+      "source": "/blog/conditions-we-treat/neck-pain/",
+      "destination": "/conditions-we-treat/neck-pain/"
+    },
+    {
+      "source": "/blog/contact-locations/hillsboro/",
+      "destination": "/contact-locations/hillsboro/"
+    },
+    {
+      "source": "/blog/contact-locations/",
+      "destination": "/contact-locations/"
+    },
+    {
+      "source": "/blog/contact-locations/fort-worth/",
+      "destination": "/contact-locations/fort-worth/"
+    }
+  ]
+}

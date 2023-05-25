@@ -2,10 +2,13 @@ import "@/styles/globals.css";
 import "react-toastify/dist/ReactToastify.css";
 import Head from "next/head";
 import Script from "next/script";
+import { NextSeo } from "next-seo";
+import localBusinessSchema from "../components/AllSchemaMarkup/LocalBusinessSchema";
 
 export default function App({ Component, pageProps }) {
   return (
     <>
+      <NextSeo jsonld={localBusinessSchema} />
       <Head>
         <link rel="icon" href="https://www.mypremierpain.com/favicon.ico" />
         <meta

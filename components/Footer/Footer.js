@@ -137,7 +137,7 @@ export const Footer = () => {
               <Link rel="noreferrer" href="mailto:admin@mypremierpain.com">
                 admin@mypremierpain.com
               </Link>
-              <span
+              {/* <span
                 id="FooterV4_3"
                 data-process="if"
                 style={{ display: "none" }}
@@ -163,7 +163,7 @@ export const Footer = () => {
                     ></span>
                   </span>
                 </Link>
-              </span>
+              </span> */}
               {/* <div className="social-menu">
                 <ul>
                   <li>

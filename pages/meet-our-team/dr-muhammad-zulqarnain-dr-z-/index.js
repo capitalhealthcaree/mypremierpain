@@ -22,7 +22,6 @@ export const DrMZulqarnain = () => {
         />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Premier Pain Centers" />
-        <meta property="og:url" content="index.html" />
         <meta
           property="og:title"
           content="Dr. Muhammad Zulqarnain (Dr. Z) | Premier Pain Centers"
@@ -31,23 +30,6 @@ export const DrMZulqarnain = () => {
           property="og:description"
           content="Dr. Muhammad Zulqarnain (Dr. Z). For quality pain management services from a friendly and caring team, call Premier Pain Centers today."
         />
-        <meta property="og:image" content="/images/dr-muhammed.jpg" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta
-          name="twitter:title"
-          content="Dr. Muhammad Zulqarnain (Dr. Z) | Premier Pain Centers"
-        />
-        <meta
-          name="twitter:description"
-          content="Dr. Muhammad Zulqarnain (Dr. Z). For quality pain management services from a friendly and caring team, call Premier Pain Centers today."
-        />
-        <meta name="twitter:image" content="/images/dr-muhammed.jpg" />
-        <meta name="robots" content="NOINDEX,NOFOLLOW" />
-        <meta
-          name="google-site-verification"
-          content="4KXE6z1IMn1YlLvnFo__ua0TXs3xPbwTkDIQcIHwr54"
-        />
-        <meta name="msvalidate.01" content="C7CA6FF11309974175E72AAD2E356DF2" />
       </Head>
 
       <Header />

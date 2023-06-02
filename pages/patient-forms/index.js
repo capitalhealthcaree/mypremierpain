@@ -20,7 +20,6 @@ export const PatientForms = () => {
         />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Premier Pain Centers" />
-        <meta property="og:url" content="index.html" />
         <meta
           property="og:title"
           content="Patient Forms | Premier Pain Centers"
@@ -29,25 +28,6 @@ export const PatientForms = () => {
           property="og:description"
           content="Patient Forms. For quality pain management services from a friendly and caring team, call Premier Pain Centers today."
         />
-        <meta property="og:image" content="../assets/Social-Share%5b1%5d.jpg" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta
-          name="twitter:title"
-          content="Patient Forms | Premier Pain Centers"
-        />
-        <meta
-          name="twitter:description"
-          content="Patient Forms. For quality pain management services from a friendly and caring team, call Premier Pain Centers today."
-        />
-        <meta
-          name="twitter:image"
-          content="../assets/Social-Share%5b1%5d.jpg"
-        />
-        <meta
-          name="google-site-verification"
-          content="4KXE6z1IMn1YlLvnFo__ua0TXs3xPbwTkDIQcIHwr54"
-        />
-        <meta name="msvalidate.01" content="C7CA6FF11309974175E72AAD2E356DF2" />
       </Head>
 
       <Header />

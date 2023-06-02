@@ -49,7 +49,6 @@ export default function Home({ items }) {
     <>
       <Head>
         <title>Richardson Pain Management | Premier Pain Centers </title>
-        {/* <link rel="icon" type="image/x-icon" href="favicon.ico" /> */}
         <link rel="canonical" href="https://www.mypremierpain.com/" />
         <meta content="text/html; charset=utf-8" httpEquiv="Content-Type" />
         <meta content="initial-scale=1" name="viewport" />
@@ -60,16 +59,6 @@ export default function Home({ items }) {
         />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Premier Pain Centers" />
-        <meta property="og:url" content="index.html" />
-        <meta property="og:image" content="/assets/Social-Share%5b1%5d.jpg" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:image" content="/assets/Social-Share%5b1%5d.jpg" />
-        <meta
-          name="google-site-verification"
-          content="4KXE6z1IMn1YlLvnFo__ua0TXs3xPbwTkDIQcIHwr54"
-        />
-
-        <meta name="msvalidate.01" content="C7CA6FF11309974175E72AAD2E356DF2" />
       </Head>
 
       {/* Header component */}
@@ -971,10 +960,10 @@ export default function Home({ items }) {
                       data-role="arrows"
                     >
                       <Link
-                         href="#"
-                    onClick={(e) => {
-                      e.preventDefault();
-                    }}
+                        href="#"
+                        onClick={(e) => {
+                          e.preventDefault();
+                        }}
                         title="View previous item"
                         aria-label="View previous item"
                         data-action="Prev"
@@ -988,10 +977,10 @@ export default function Home({ items }) {
                         <span data-role="page-total"></span>
                       </span>
                       <Link
-                         href="#"
-                    onClick={(e) => {
-                      e.preventDefault();
-                    }}
+                        href="#"
+                        onClick={(e) => {
+                          e.preventDefault();
+                        }}
                         title="View next item"
                         aria-label="View next item"
                         data-action="Next"
@@ -1294,7 +1283,7 @@ export default function Home({ items }) {
                   data-role="arrows"
                 >
                   <Link
-                     href="#"
+                    href="#"
                     onClick={(e) => {
                       e.preventDefault();
                     }}
@@ -1311,7 +1300,7 @@ export default function Home({ items }) {
                     <span data-role="page-total"></span>
                   </span>
                   <Link
-                     href="#"
+                    href="#"
                     onClick={(e) => {
                       e.preventDefault();
                     }}

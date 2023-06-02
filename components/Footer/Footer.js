@@ -112,8 +112,6 @@ export const Footer = () => {
                     src="/cms/svg/Logo2.png"
                   />
                 </Link>
-                <meta content="Premier Pain Centers" />
-                <meta content="Richardson Pain Management" />
               </div>
               <p
                 className="no-bottom-margin description"

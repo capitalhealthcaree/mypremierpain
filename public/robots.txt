@@ -8,3 +8,5 @@ Allow: /
 
 User-agent: Googlebot-Image
 Allow: /
+
+Disallow: /*lang=jp

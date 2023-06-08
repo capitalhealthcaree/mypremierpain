@@ -1681,7 +1681,7 @@ export default function Home({ items }) {
                 <source
                   media="(max-width: 500px)"
                   srcSet="/assets/contact/contact-v5-bg-mobile.jpg"
-                  data-src="https:/assets/contact/contact-v5-bg-mobile.jpg"
+                  data-src="/assets/contact/contact-v5-bg-mobile.jpg"
                 />
                 <Image
                   width="100"

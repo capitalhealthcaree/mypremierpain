@@ -16,6 +16,13 @@ export default function Document() {
               `,
           }}
         />
+        {/* Add Script of Chat */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `var continuallySettings = { appID: "k98reep6krep" };`,
+          }}
+        ></script>
+        <script src="https://cdn-app.continual.ly/js/embed/continually-embed.latest.min.js"></script>
         {/* <script
           type="text/javascript"
           src="https://onsite.optimonk.com/script.js?account=201357"

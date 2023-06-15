@@ -94,7 +94,7 @@ export const CarAccidentInjury = () => {
                           Give our office a call today at&nbsp;
                           <Link href="tel:469-562-4188">469-562-4188</Link>{" "}
                           or&nbsp;
-                          <Link href="../../contact-locations/">
+                          <Link href="/contact-locations/">
                             contact us online
                           </Link>{" "}
                           to learn more about our Richardson car accident injury
@@ -188,7 +188,7 @@ export const CarAccidentInjury = () => {
                             ></span>
                           </Link>{" "}
                           or&nbsp;
-                          <Link href="../../contact-locations/">
+                          <Link href="/contact-locations/">
                             contact us online
                           </Link>{" "}
                           today.

@@ -113,7 +113,7 @@ export const NeckPain = () => {
                         Call us at
                         <Link href="tel:469-562-4188"> 469-562-4188</Link>{" "}
                         or&nbsp;
-                        <Link href="../../contact-locations/">
+                        <Link href="/contact-locations/">
                           contact us
                         </Link>{" "}
                         online to schedule an appointment.
@@ -191,7 +191,7 @@ export const NeckPain = () => {
                         have bursitis.
                       </li>
                       Other causes of{" "}
-                      <Link href="../../contact-locations/decatur/">
+                      <Link href="/contact-locations/decatur/">
                         shoulder Pain Decatur
                       </Link>{" "}
                       are:
@@ -208,14 +208,14 @@ export const NeckPain = () => {
                         condition, your immune system attacks the protective
                         lining of your joints.Additionally, you may experience{" "}
                         {"  "}
-                        <Link href="../../contact-locations/richardson/">
+                        <Link href="/contact-locations/richardson/">
                           Shoulder Pain Richardson
                         </Link>{" "}
                         and stiffness as a result of this condition.
                       </li>
                       <li>
                         <b>Referred Pain &ndash; </b>You may experience {"  "}
-                        <Link href="../../contact-locations/fort-worth/">
+                        <Link href="/contact-locations/fort-worth/">
                           Shoulder pain Fort Worth
                         </Link>{" "}
                         even if there is nothing wrong with them. If you
@@ -224,7 +224,7 @@ export const NeckPain = () => {
                       </li>
                       <li>
                         <b>Heart Attack &ndash; </b> If you experience{" "}
-                        <Link href="../../contact-locations/north-richland-hills/">
+                        <Link href="/contact-locations/north-richland-hills/">
                           Shoulder Pain North Richland Hills
                         </Link>{" "}
                         , difficulty breathing, or a tight feeling in your
@@ -255,7 +255,7 @@ export const NeckPain = () => {
                     <h2>When to Contact a Medical Professional</h2>
                     <p>
                       The sudden onset of left{" "}
-                      <Link href="../../contact-locations/lancaster/">
+                      <Link href="/contact-locations/lancaster/">
                         shoulder Pain Lancaster
                       </Link>{" "}
                       may be indicative of a heart attack. If you experience
@@ -270,7 +270,7 @@ export const NeckPain = () => {
 
                     <ul>
                       <li>
-                        <Link href="../../contact-locations/farmers-branch/">
+                        <Link href="/contact-locations/farmers-branch/">
                           Shoulder pain Farmers Branch
                         </Link>{" "}
                         with fever, redness or swelling
@@ -314,7 +314,7 @@ export const NeckPain = () => {
                         and function. Please consult your physician if you have
                         high blood pressure, kidney disease or heart disease,
                         before taking these medications.
-                        <Link href="../../contact-locations/hillsboro/">
+                        <Link href="/contact-locations/hillsboro/">
                           Shoulder Pain Hillsboro
                         </Link>{" "}
                         should not be treated with medication on a long-term
@@ -340,7 +340,7 @@ export const NeckPain = () => {
                     <h2>Be Persistent And Seek Care</h2>
                     <p>
                       Even though{" "}
-                      <Link href="../../contact-locations/waxahachie/">
+                      <Link href="/contact-locations/waxahachie/">
                         shoulder pain Waxahachie
                       </Link>{" "}
                       is common, it is imperative that they are treated as
@@ -366,7 +366,7 @@ export const NeckPain = () => {
                       therapy management, we offer comprehensive patient care. A
                       comprehensive range of evidence-based treatments is
                       available at{" "}
-                      <Link href="../../meet-our-team/rao-k-ali/">
+                      <Link href="/meet-our-team/rao-k-ali/">
                         {" "}
                         Dr Ali Pain Management{" "}
                       </Link>{" "}
@@ -375,7 +375,7 @@ export const NeckPain = () => {
                     </p>
                     <p>
                       If you would like to{" "}
-                      <Link href="../../contact-locations/">
+                      <Link href="/contact-locations/">
                         {" "}
                         schedule an appointment{" "}
                       </Link>{" "}

@@ -62,7 +62,7 @@ export const Careers = () => {
                         <b>
                           If you are interested in a career with Premier Pain
                           Centers,
-                          <Link href="../../contact-locations/">
+                          <Link href="/contact-locations/">
                             contact us
                           </Link>{" "}
                           today.

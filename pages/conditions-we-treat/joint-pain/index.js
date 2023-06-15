@@ -77,7 +77,7 @@ export const JointPain = () => {
                       illness or injury. Arthritis is also a common cause of
                       joint pain. However, it may also be due to other
                       circumstances or factors. Whereas we at&nbsp;
-                      <Link href="https://www.mypremierpain.com/contact-locations/richardson/">
+                      <Link href="/contact-locations/richardson/">
                         Joint Pain Treatment In Richardson
                       </Link>{" "}
                       will provide you with the best ways to get rid of your
@@ -91,7 +91,7 @@ export const JointPain = () => {
                         Give us a call today at
                         <Link href="tel:469-562-4188"> 469-562-4188</Link>{" "}
                         or&nbsp;
-                        <Link href="../../contact-locations/">
+                        <Link href="/contact-locations/">
                           contact us online
                         </Link>{" "}
                         to make an appointment.
@@ -165,7 +165,7 @@ export const JointPain = () => {
                           adverse consequences include bone loss, increased body
                           fat, and perhaps diabetes. However, this method is
                           strongly prescribed by our team at&nbsp;
-                          <Link href="https://www.mypremierpain.com/contact-locations/decatur/">
+                          <Link href="/contact-locations/decatur/">
                             Joint Pain Treatment In Decatur
                           </Link>
                           .
@@ -229,7 +229,7 @@ export const JointPain = () => {
                     <p>
                       However, we came to know about all this information with
                       the help of &nbsp;
-                      <Link href="https://www.mypremierpain.com/contact-locations/corsicana/">
+                      <Link href="/contact-locations/corsicana/">
                         Joint Pain Treatment In Corsicana
                       </Link>
                       .
@@ -238,7 +238,7 @@ export const JointPain = () => {
                     <p>
                       Some of the most common symptoms informed by our team
                       &nbsp;at &nbsp;
-                      <Link href="https://www.mypremierpain.com/contact-locations/lancaster/">
+                      <Link href="/contact-locations/lancaster/">
                         Joint Pain Treatment In Lancaster
                       </Link>{" "}
                       include;
@@ -267,7 +267,7 @@ export const JointPain = () => {
                     <p>
                       When it comes to joint discomfort, the most common causes
                       we came to know by &nbsp;
-                      <Link href="https://www.mypremierpain.com/contact-locations/fort-worth/">
+                      <Link href="/contact-locations/fort-worth/">
                         Joint Pain Treatment In Fort Worth
                       </Link>{" "}
                       include:&nbsp;
@@ -329,7 +329,7 @@ export const JointPain = () => {
                     <p>
                       A few conditions that may cause multiple joints pain
                       include known by &nbsp;
-                      <Link href="https://www.mypremierpain.com/contact-locations/hillsboro/">
+                      <Link href="/contact-locations/hillsboro/">
                         Joint Pain Treatment In hillsboro
                       </Link>
                       :
@@ -385,7 +385,7 @@ export const JointPain = () => {
                     >
                       <b>
                         Schedule a same-day appointment &mdash;
-                        <Link href="../../contact-locations/">
+                        <Link href="/contact-locations/">
                           contact us online
                         </Link>{" "}
                         or call&nbsp;

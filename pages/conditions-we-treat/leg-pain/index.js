@@ -68,7 +68,7 @@ export const LegPain = () => {
                       one or both legs. Your leg pain could be worse while
                       you're sitting or lying down, depending on the underlying
                       issue. However, our team at{" "}
-                      <Link href="https://www.mypremierpain.com/contact-locations/richardson/">
+                      <Link href="/contact-locations/richardson/">
                         {" "}
                         Richardson leg pain treatment{" "}
                       </Link>{" "}
@@ -83,7 +83,7 @@ export const LegPain = () => {
                       down your treatment options based on your diagnosis.
                       <br></br>
                       If you're experiencing leg discomfort, come to The{" "}
-                      <Link href="https://www.mypremierpain.com/contact-locations/waxahachie/">
+                      <Link href="/contact-locations/waxahachie/">
                         {" "}
                         Waxahachie leg pain treatment{" "}
                       </Link>{" "}
@@ -97,7 +97,7 @@ export const LegPain = () => {
                       <b>
                         Call us at
                         <Link href="tel:469-562-4188"> 469-562-4188</Link> or
-                        <Link href="../../contact-locations/">
+                        <Link href="/contact-locations/">
                           &nbsp;contact us online
                         </Link>{" "}
                         to schedule an appointment.
@@ -110,7 +110,7 @@ export const LegPain = () => {
                       for long periods, standing for long periods, or engaging
                       in particular activities.<br></br>
                       However, our team at{" "}
-                      <Link href="https://www.mypremierpain.com/contact-locations/fort-worth/">
+                      <Link href="/contact-locations/fort-worth/">
                         {" "}
                         Fort Worth leg pain treatment{" "}
                       </Link>{" "}

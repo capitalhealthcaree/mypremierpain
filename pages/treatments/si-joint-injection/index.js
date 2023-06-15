@@ -120,7 +120,7 @@ export const SiJointInjection = () => {
                     <p>
                       Depending on the cause of your pain, your healthcare
                       provider may perform a{" "}
-                      <Link href="https://www.mypremierpain.com/contact-locations/richardson/">
+                      <Link href="/contact-locations/richardson/">
                         {" "}
                         Si Joint injection Richardson{" "}
                       </Link>
@@ -142,7 +142,7 @@ export const SiJointInjection = () => {
                     <p>
                       An operating room or a procedure room selected
                       specifically for the procedure is used for the majority of{" "}
-                      <Link href="https://www.mypremierpain.com/contact-locations/lancaster/">
+                      <Link href="/contact-locations/lancaster/">
                         {" "}
                         Si Joint injection Lancaster{" "}
                       </Link>{" "}
@@ -155,7 +155,7 @@ export const SiJointInjection = () => {
                     <ul className="bullt-list v1">
                       <li>
                         An{" "}
-                        <Link href="https://www.mypremierpain.com/contact-locations/north-richland-hills/">
+                        <Link href="/contact-locations/north-richland-hills/">
                           {" "}
                           Si Joint injection north richland Hills{" "}
                         </Link>{" "}
@@ -180,7 +180,7 @@ export const SiJointInjection = () => {
                         An iodine-based solution (e.g. Povidone-Iodine) or an
                         alcohol-based antiseptic are used to clean the skin
                         overlying the{" "}
-                        <Link href="https://www.mypremierpain.com/contact-locations/fort-worth/">
+                        <Link href="/contact-locations/fort-worth/">
                           {" "}
                           Si Joint injection fort worth{" "}
                         </Link>{" "}

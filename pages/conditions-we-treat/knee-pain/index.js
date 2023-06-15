@@ -86,7 +86,7 @@ export const KneePain = () => {
                         Schedule your appointment by dialing
                         <Link href="tel:469-562-4188"> 469-562-4188</Link> or
                         completing our&nbsp;
-                        <Link href="../../contact-locations/">
+                        <Link href="/contact-locations/">
                           online form
                         </Link>{" "}
                         today.
@@ -178,7 +178,7 @@ export const KneePain = () => {
                       <li>
                         <p>
                           However, our team of&nbsp;
-                          <Link href="https://www.mypremierpain.com/contact-locations/lancaster/">
+                          <Link href="/contact-locations/lancaster/">
                             Knee pain treatment in Lancaster
                           </Link>{" "}
                           also told us that the patella, often known as the
@@ -203,7 +203,7 @@ export const KneePain = () => {
                       <li>
                         <p>
                           As our team of&nbsp;
-                          <Link href="https://www.mypremierpain.com/contact-locations/hillsboro/">
+                          <Link href="/contact-locations/hillsboro/">
                             Knee pain treatment in Hillsboro
                           </Link>{" "}
                           told us Stability in the medial and lateral directions
@@ -233,7 +233,7 @@ export const KneePain = () => {
                         <p>
                           However, we were able to get all this information with
                           the help of our team at&nbsp;
-                          <Link href="https://www.mypremierpain.com/contact-locations/fort-worth/">
+                          <Link href="/contact-locations/fort-worth/">
                             Knee pain treatment in fort worth
                           </Link>
                           .
@@ -272,12 +272,12 @@ export const KneePain = () => {
                       doctor right away and get your&nbsp;Knee pain treatment in
                       Richardson&nbsp;with the help of experts. If your pain
                       lasts more than a few days, you should&nbsp;
-                      <Link href="https://www.mypremierpain.com/contact-locations/">
+                      <Link href="/contact-locations/">
                         schedule an appointment
                       </Link>{" "}
                       with your doctor. Patients suffering from severe muscle
                       pain in the United States are treated at&nbsp;
-                      <Link href="https://www.mypremierpain.com/">
+                      <Link href="/">
                         Premier Pain
                       </Link>{" "}
                       Center, a medical facility offering high-quality medical
@@ -292,7 +292,7 @@ export const KneePain = () => {
                         To learn more, give us a call at
                         <Link href="tel:469-562-4188"> 469-562-4188</Link>{" "}
                         or&nbsp;
-                        <Link href="../../contact-locations/">
+                        <Link href="/contact-locations/">
                           contact us online
                         </Link>{" "}
                         today.

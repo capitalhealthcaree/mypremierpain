@@ -102,7 +102,7 @@ export const NeckPain = () => {
                         Call us at
                         <Link href="tel:469-562-4188"> 469-562-4188</Link>{" "}
                         or&nbsp;
-                        <Link href="../../contact-locations/">
+                        <Link href="/contact-locations/">
                           contact us
                         </Link>{" "}
                         online to schedule an appointment.
@@ -315,7 +315,7 @@ export const NeckPain = () => {
                     >
                       <b>
                         To get in touch with our team,
-                        <Link href="../../contact-locations/">
+                        <Link href="/contact-locations/">
                           send us a message
                         </Link>{" "}
                         or call

@@ -383,7 +383,7 @@ export const ConditionsWeTreat = ({ items }) => {
               <p className="text-highlight v9 flex-between-middle border-all side-padding-medium vertical-padding-tiny">
                 <b>
                   For additional questions on services we offer, you can
-                  <Link href="../contact-locations/">
+                  <Link href="/contact-locations/">
                     {" "}
                     contact us online
                   </Link>{" "}

@@ -91,7 +91,7 @@ export const SportInjury = () => {
                         Call us at
                         <Link href="tel:469-562-4188"> 469-562-4188</Link>{" "}
                         or&nbsp;
-                        <Link href="../../contact-locations/">
+                        <Link href="/contact-locations/">
                           contact us online
                         </Link>{" "}
                         to learn more about our Richardson
@@ -115,7 +115,7 @@ export const SportInjury = () => {
                       to twisting an ankle, breaking a bone, falling, or
                       colliding with another person during practice or a game.
                       These events can lead to an array of injuries &mdash;
-                      <Link href="../../contact-locations/">contact us</Link> to
+                      <Link href="/contact-locations/">contact us</Link> to
                       discuss your specific circumstances and how we can help.
                     </p>
                     <p>
@@ -177,7 +177,7 @@ export const SportInjury = () => {
                     >
                       <b>
                         Please&nbsp;
-                        <Link href="../../contact-locations/">
+                        <Link href="/contact-locations/">
                           contact us online
                         </Link>{" "}
                         or call us at

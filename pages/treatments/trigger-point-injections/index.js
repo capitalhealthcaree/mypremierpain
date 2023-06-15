@@ -68,7 +68,7 @@ export const TriggerPointInjections = () => {
                       Injections of local anesthetic medication can numb trigger
                       points during treatment. Cortisone, saline, and Botulinum
                       Toxin are some of them.
-                      <Link href="https://www.mypremierpain.com/contact-locations/lancaster/">
+                      <Link href="/contact-locations/lancaster/">
                         {" "}
                         Trigger point injections Lancaster{" "}
                       </Link>{" "}
@@ -86,7 +86,7 @@ export const TriggerPointInjections = () => {
                       method, including the arms, legs, lower back, and neck.It
                       is also possible to treat fibromyalgia (myofascial pain
                       syndrome) and tension{" "}
-                      <Link href="https://www.mypremierpain.com/conditions-we-treat/headaches/">
+                      <Link href="/conditions-we-treat/headaches/">
                         {" "}
                         headaches
                       </Link>{" "}
@@ -116,7 +116,7 @@ export const TriggerPointInjections = () => {
 
                     <h2>Who Should Receive A Trigger Point Injection?</h2>
                     <p>
-                      <Link href="https://www.mypremierpain.com/contact-locations/fort-worth/">
+                      <Link href="/contact-locations/fort-worth/">
                         Trigger point injections Fort Worth{" "}
                       </Link>{" "}
                       may be effective if you have tried medication, massage
@@ -124,14 +124,14 @@ export const TriggerPointInjections = () => {
                       therapy without success.<br></br>
                       It is common to use physical therapy and stretching
                       exercises in combination with{" "}
-                      <Link href="https://www.mypremierpain.com/contact-locations/richardson/">
+                      <Link href="/contact-locations/richardson/">
                         {" "}
                         trigger point injections Richardson{" "}
                       </Link>{" "}
                       to relieve some of the pain that has been caused by
                       trigger points.<br></br>
                       In particular,{" "}
-                      <Link href="https://www.mypremierpain.com/contact-locations/north-richland-hills/">
+                      <Link href="/contact-locations/north-richland-hills/">
                         {" "}
                         trigger point injections North Richland Hills
                       </Link>{" "}
@@ -149,7 +149,7 @@ export const TriggerPointInjections = () => {
                       <li> Structural causes of pain</li>
                       <li>
                         Several disorders of the spine can cause{" "}
-                        <Link href="https://www.mypremierpain.com/conditions-we-treat/back-pain/">
+                        <Link href="/conditions-we-treat/back-pain/">
                           {" "}
                           back pain
                         </Link>
@@ -234,7 +234,7 @@ export const TriggerPointInjections = () => {
                       you are interested in learning more about the risks and
                       benefits of this treatment, you should consult your
                       physician. Let's{" "}
-                      <Link href="https://www.mypremierpain.com/contact-locations/">
+                      <Link href="/contact-locations/">
                         {" "}
                         schedule an appointment.{" "}
                       </Link>
@@ -242,7 +242,7 @@ export const TriggerPointInjections = () => {
                     <h2>Premier Pain Centers</h2>
                     <p>
                       The{" "}
-                      <Link href="https://www.mypremierpain.com/">
+                      <Link href="/">
                         {" "}
                         Premier Pain{" "}
                       </Link>{" "}

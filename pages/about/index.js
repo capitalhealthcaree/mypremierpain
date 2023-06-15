@@ -143,7 +143,7 @@ export const About = () => {
                   <b>
                     Call
                     <Link href="tel:469-562-4188"> 469-562-4188</Link> or&nbsp;
-                    <Link href="../contact-locations/">
+                    <Link href="/contact-locations/">
                       contact us online
                     </Link>{" "}
                     to speak with our team.

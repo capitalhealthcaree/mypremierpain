@@ -128,7 +128,7 @@ export default function Home({ items }) {
                       </p>
 
                       <div className="top-margin">
-                        <Link className="btn v1" href="contact-locations/">
+                        <Link className="btn v1" href="/contact-locations/">
                           Schedule an Appointment
                         </Link>
                       </div>
@@ -211,7 +211,7 @@ export default function Home({ items }) {
                       <b>
                         To learn more about our treatments or to schedule an
                         appointment,
-                        <Link href="contact-locations/">
+                        <Link href="/contact-locations/">
                           reach out to our team
                         </Link>{" "}
                         today by calling
@@ -1381,7 +1381,7 @@ export default function Home({ items }) {
                             &nbsp;469-562-4188
                           </Link>{" "}
                           or&nbsp;
-                          <Link href="contact-locations/">
+                          <Link href="/contact-locations/">
                             fill out our quick and easy contact form
                           </Link>{" "}
                           today!

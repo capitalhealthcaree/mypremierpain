@@ -96,7 +96,7 @@ export const Headaches = () => {
                         services, give us a call at
                         <Link href="tel:469-562-4188"> 469-562-4188</Link>{" "}
                         or&nbsp;
-                        <Link href="../../contact-locations/">
+                        <Link href="/contact-locations/">
                           contact us online
                         </Link>{" "}
                         today.
@@ -184,7 +184,7 @@ export const Headaches = () => {
                         Give us a call at
                         <Link href="tel:469-562-4188"> 469-562-4188</Link>{" "}
                         or&nbsp;
-                        <Link href="../../contact-locations/">
+                        <Link href="/contact-locations/">
                           contact us online
                         </Link>{" "}
                         today to schedule an appointment for headache treatment

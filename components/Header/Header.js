@@ -540,7 +540,7 @@ export const Header = ({ position, backgroundTransparent }) => {
                         <li className="selected">
                           <Link
                             className="btn-color-hover"
-                            href="/../../contact-locations/decatur"
+                            href="/contact-locations/decatur/"
                           >
                             Decatur
                           </Link>
@@ -548,7 +548,7 @@ export const Header = ({ position, backgroundTransparent }) => {
                         <li className="selected">
                           <Link
                             className="btn-color-hover"
-                            href="/../../contact-locations/cleburne"
+                            href="/contact-locations/cleburne/"
                           >
                             Cleburne
                           </Link>
@@ -925,7 +925,7 @@ export const Header = ({ position, backgroundTransparent }) => {
                       <li className="selected">
                         <Link
                           className="btn-color-hover"
-                          href="../../contact-locations/decatur/"
+                          href="/contact-locations/decatur/"
                         >
                           Decatur
                         </Link>

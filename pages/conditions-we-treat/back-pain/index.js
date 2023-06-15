@@ -88,7 +88,7 @@ export const BackPain = () => {
                     >
                       <strong>
                         Please
-                        <Link href="../../contact-locations/">
+                        <Link href="/contact-locations/">
                           {" "}
                           contact us online{" "}
                         </Link>{" "}
@@ -146,7 +146,7 @@ export const BackPain = () => {
                       Here you go… talking about the causes of back pain. So
                       there is not a single cause of this condition. Because a
                       lot of factors can lead to back pain. Our team at{" "}
-                      <Link href="https://www.mypremierpain.com/contact-locations/lancaster/">
+                      <Link href="/contact-locations/lancaster/">
                         {" "}
                         Lancaster Back Pain Treatment{" "}
                       </Link>{" "}
@@ -182,7 +182,7 @@ export const BackPain = () => {
                     <p>
                       Let’s have a look at the uncommon causes of back pain
                       acknowledged by our team at{" "}
-                      <Link href="https://www.mypremierpain.com/contact-locations/hillsboro/">
+                      <Link href="/contact-locations/hillsboro/">
                         {" "}
                         Hillsboro Back Pain Treatment{" "}
                       </Link>{" "}
@@ -206,7 +206,7 @@ export const BackPain = () => {
                       source of back pain may occur in a variety of structures,
                       including muscles and ligaments, intervertebral discs,
                       joints, or nerves. However, our{" "}
-                      <Link href="https://www.mypremierpain.com/contact-locations/north-richland-hills/">
+                      <Link href="/contact-locations/north-richland-hills/">
                         {" "}
                         North Richland Hills Back Pain Treatment{" "}
                       </Link>{" "}
@@ -221,7 +221,7 @@ export const BackPain = () => {
                     {/* <p>
                       If you can’t manage your pain in any of the above-given
                       ways. We at{" "}
-                      <Link href="https://www.mypremierpain.com/contact-locations/fort-worth">
+                      <Link href="/contact-locations/fort-worth">
                         {" "}
                         Fort Worth Back Pain Treatment{" "}
                       </Link>{" "}
@@ -248,7 +248,7 @@ export const BackPain = () => {
                       epicenter of the pain concentration. Your doctor may
                       recommend the following procedures if your symptoms do not
                       improve. However, our team at &nbsp;
-                      <Link href="https://www.mypremierpain.com/contact-locations/decatur/">
+                      <Link href="/contact-locations/decatur/">
                         Decatur Back Pain Treatment
                       </Link>{" "}
                       told us that a better clinical picture encourages
@@ -266,7 +266,7 @@ export const BackPain = () => {
                     <h2>How Can I Know About The Symptoms?</h2>
                     <p>
                       Our team at&nbsp;
-                      <Link href="https://www.mypremierpain.com/contact-locations/farmers-branch/">
+                      <Link href="/contact-locations/farmers-branch/">
                         Farmers Branch Back Pain Treatment
                       </Link>{" "}
                       told us Back pain can have many symptoms, including:
@@ -325,7 +325,7 @@ export const BackPain = () => {
                       <strong>
                         Call us at
                         <Link href="tel:469-562-4188"> 469-562-4188 </Link> or
-                        <Link href="../../contact-locations/">
+                        <Link href="/contact-locations/">
                           {" "}
                           contact us online{" "}
                         </Link>{" "}

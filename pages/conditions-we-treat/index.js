@@ -1,7 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
 import React, { useState } from "react";
-import { Banner } from "@/components/CommonBanner/Banner";
 import { Footer } from "@/components/Footer/Footer";
 import { Header } from "@/components/Header/Header";
 import Link from "next/link";
@@ -12,7 +11,7 @@ import { useRouter } from "next/router";
 
 const CSR_ENDPOINT = process.env.NEXT_PUBLIC_URL;
 
-export const ConditionsWeTreat = ({ items }) => {
+export const ConditionsWeTreat = () => {
   const router = useRouter();
 
   const [firstName, setFirstName] = useState("");
@@ -114,9 +113,7 @@ export const ConditionsWeTreat = ({ items }) => {
                   <em className="title-color-2 subtitle">
                     You Will See We Care
                   </em>
-                  {/* <svg className="header-flair">
-                    <use href="../includes/flair.svg#header"></use>
-                  </svg> */}
+
                   <p className="no-bottom-margin description">
                     If you are feeling pain throughout your body, call our
                     specialists at 469-562-4188 or fill out the contact form to
@@ -133,9 +130,6 @@ export const ConditionsWeTreat = ({ items }) => {
                     <header className="text-center" id="MainstageV6FormHeader">
                       <h4>SCHEDULE AN APPOINTMENT</h4>
                       <strong>The Next Steps to Living Pain Free</strong>
-                      {/* <svg className="header-flair">
-                        <use href="../includes/flair.svg#header"></use>
-                      </svg> */}
                     </header>
 
                     <div id="ContactV1Form" className="ui-repeater">
@@ -268,9 +262,6 @@ export const ConditionsWeTreat = ({ items }) => {
                                 </option>
                               </select>
 
-                              {/* <svg className="site-arrow">
-                                <use href="../../includes/flair.svg#arrow-down"></use>
-                              </svg> */}
                               <div
                                 className="validation"
                                 htmlFor="ContactV1Form_ITM0_LeadTypeID"
@@ -360,9 +351,6 @@ export const ConditionsWeTreat = ({ items }) => {
               id="ServicesParentV1Header"
             >
               <h1>Conditions We Treat</h1>
-              {/* <svg className="header-flair">
-                <use href="../includes/flair.svg#header"></use>
-              </svg> */}
             </header>
             <div
               className="content-style relative"
@@ -383,11 +371,8 @@ export const ConditionsWeTreat = ({ items }) => {
               <p className="text-highlight v9 flex-between-middle border-all side-padding-medium vertical-padding-tiny">
                 <b>
                   For additional questions on services we offer, you can
-                  <Link href="/contact-locations/">
-                    {" "}
-                    contact us online
-                  </Link>{" "}
-                  or call us at
+                  <Link href="/contact-locations/"> contact us online</Link> or
+                  call us at
                   <Link href="tel:469-562-4188"> 469-562-4188 </Link>. We are
                   happy to address any concerns you may have.
                 </b>
@@ -766,9 +751,6 @@ export const ConditionsWeTreat = ({ items }) => {
                               tremendously.&rdquo;
                             </p>
                             <strong>- Mikey D.</strong>
-                            {/* <svg className="bottom-flair absolute">
-                              <use href="../includes/flair.svg#bottom"></use>
-                            </svg> */}
                           </blockquote>
                         </li>
                         <li
@@ -786,9 +768,6 @@ export const ConditionsWeTreat = ({ items }) => {
                               and he really cares about his patients.&rdquo;
                             </p>
                             <strong>- Ricky C.</strong>
-                            {/* <svg className="bottom-flair absolute">
-                              <use href="../includes/flair.svg#bottom"></use>
-                            </svg> */}
                           </blockquote>
                         </li>
                         <li
@@ -990,92 +969,6 @@ export const ConditionsWeTreat = ({ items }) => {
                     data-src="/assets/values/values-v8-img.jpg"
                   />
                 </picture>
-              </div>
-            </div>
-          </div>
-        </section>
-        <section
-          className="blog v3 dark-bg bg-image text-center large-padding bg-box-stylized"
-          id="BlogV3"
-          data-onvisible="show"
-        >
-          <picture className="img-bg" data-role="picture">
-            <source
-              media="(max-width: 500px)"
-              srcSet="/assets/blogs/blog-v3-bg-mobile.jpg"
-              data-src="/assets/blogs/blog-v3-bg-mobile.jpg"
-            />
-            <img
-              src="/assets/blogs/blog-v3-bg.jpg"
-              alt=""
-              data-src="/assets/blogs/blog-v3-bg.jpg"
-            />
-          </picture>
-          <div className="main">
-            <header className="center-800 text-align" id="BlogV3Header">
-              <h4>Our Medical Blogs &amp; News</h4>
-              <strong>Stay Up to Date With the Latest Articles</strong>
-              {/* <svg className="header-flair">
-                <use href="../includes/flair.svg#header"></use>
-              </svg> */}
-            </header>
-            <ul
-              className="blog-list flex-grid-wrap-center-max-3-auto-size-break-800-block-500 close-gap-500 ui-repeater"
-              id="BlogV3List"
-            >
-              {items &&
-                items.length &&
-                items.slice(0, 3).map((element, index) => {
-                  return (
-                    <li
-                      className="flex- fit"
-                      data-item="i"
-                      data-key="1365288"
-                      key={index}
-                    >
-                      <Link
-                        className="flex-column full border-radius-item scaling-img-item bg-box relative"
-                        href={`/blog/${element.slug}`}
-                      >
-                        <div className="img pad-height-50 fit full">
-                          <Image
-                            layout="fill"
-                            src={
-                              element._embedded["wp:featuredmedia"]
-                                ? element._embedded["wp:featuredmedia"][0]
-                                    .source_url
-                                : ""
-                            }
-                            alt="news"
-                            data-src="/wp-content/uploads/2022/09/500-max-Epidural.png"
-                          />
-                        </div>
-
-                        <div className="flex-column-top side-padding-large vertical-padding-tiny full auto">
-                          <div className="fit full bottom-margin-tiny">
-                            <span className="blog-time-style full">
-                              {/* <time content="Sep 10, 2022">Sep 10</time> */}
-                            </span>
-                            <strong className="title-style-4 title-color-4">
-                              {element.title.rendered}
-                            </strong>
-                          </div>
-                          <span className="fit btn v2">View Article</span>
-                        </div>
-                      </Link>
-                    </li>
-                  );
-                })}
-            </ul>
-            <div id="BlogV3BtnCon">
-              <div className="top-margin text-center">
-                <Link
-                  className="btn v1"
-                  href="/blog/"
-                  aria-labelledby="BlogV3Header"
-                >
-                  All Blogs
-                </Link>
               </div>
             </div>
           </div>

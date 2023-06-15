@@ -1694,12 +1694,7 @@ export default function Home({ items }) {
               <div className="main">
                 <header className="center-800 text-align" id="BlogV3Header">
                   <h4>Our Medical Blogs &amp; News</h4>
-
                   <strong>Stay Up to Date With the Latest Articles</strong>
-
-                  {/* <svg className="header-flair">
-                    <use href="includes/flair.svg#header"></use>
-                  </svg> */}
                 </header>
                 <ul
                   className="blog-list flex-grid-wrap-center-max-3-auto-size-break-800-block-500 close-gap-500 ui-repeater"

@@ -80,7 +80,7 @@ export const Headaches = () => {
                       right for you.
                     </p>
                     <p>
-                      <Link href="../../about/">Premier Pain Centers</Link> has
+                      <Link href="/about/">Premier Pain Centers</Link> has
                       multiple treatment options available for people who suffer
                       from migraines or chronic headaches. Our professionals can
                       evaluate your symptoms to determine the best type of care

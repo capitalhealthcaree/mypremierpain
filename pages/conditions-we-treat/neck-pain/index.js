@@ -89,7 +89,7 @@ export const NeckPain = () => {
                       the different causes, and types of neck pain, and
                       you&rsquo;ll be able to know more about the common ways
                       on&nbsp;
-                      <Link href="https://www.mypremierpain.com/contact-locations/richardson/">
+                      <Link href="/contact-locations/richardson/">
                         Treating neck pain in Richardson
                       </Link>
                       .
@@ -156,7 +156,7 @@ export const NeckPain = () => {
                     <h2>What Are Some Different Types of Neck Pain?</h2>
                     <p>
                       We got to know from our team which is&nbsp;
-                      <Link href="https://www.mypremierpain.com/contact-locations/fort-worth/">
+                      <Link href="/contact-locations/fort-worth/">
                         Treating neck pain in fort worth
                       </Link>
                       .&nbsp;There are different profiles of neck pain. Some
@@ -185,7 +185,7 @@ export const NeckPain = () => {
                     <h2>What are the basic Causes of Neck pain?</h2>
                     <p>
                       To our information from&nbsp;
-                      <Link href="https://www.mypremierpain.com/contact-locations/lancaster/">
+                      <Link href="/contact-locations/lancaster/">
                         Treating neck pain in lancaster
                       </Link>
                       .&nbsp;Because of its role in bearing the body&apos;s
@@ -212,7 +212,7 @@ export const NeckPain = () => {
                         Nerve compression.&nbsp; A pinched nerve in the cervical
                         spine may be the result of a herniated disc or a bone
                         spur in the cervical spine. Our team which is&nbsp;
-                        <Link href="https://www.mypremierpain.com/contact-locations/hillsboro/">
+                        <Link href="/contact-locations/hillsboro/">
                           treating neck pain in Hillsboro
                         </Link>{" "}
                         confirmed this.
@@ -278,7 +278,7 @@ export const NeckPain = () => {
                     <h2>When Should I Call The Doctor If I Have Neck Pain?</h2>
                     <p>
                       Our team at&nbsp;
-                      <Link href="https://www.mypremierpain.com/contact-locations/fort-worth/">
+                      <Link href="/contact-locations/fort-worth/">
                         Treating neck pain in fort worth
                       </Link>{" "}
                       informed us that. If your neck pain is preventing you from

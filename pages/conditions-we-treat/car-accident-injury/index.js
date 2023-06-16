@@ -127,16 +127,16 @@ export const CarAccidentInjury = () => {
                       </p>
                       <ul className="bullt-list v1 split flex-wrap-spaced-between-block-800">
                         <li>
-                          <Link href="/joint-pain">Joint pain</Link>
+                          <Link href="/conditions-we-treat/joint-pain/">Joint pain</Link>
                         </li>
                         <li>
-                          <Link href="/back-pain">Back pain</Link>
+                          <Link href="/conditions-we-treat/back-pain/">Back pain</Link>
                         </li>
                         <li>
-                          <Link href="/headaches">Head pain</Link>
+                          <Link href="/conditions-we-treat/headaches/">Head pain</Link>
                         </li>
                         <li>
-                          <Link href="/neck-pain">Neck pain</Link>
+                          <Link href="/conditions-we-treat/neck-pain/">Neck pain</Link>
                         </li>
                       </ul>
                       <h3>

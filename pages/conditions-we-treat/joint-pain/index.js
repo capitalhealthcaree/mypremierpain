@@ -372,7 +372,7 @@ export const JointPain = () => {
                       towards recovery. In addition to being board certified in
                       pain management, Dr. Ali is board certified in physical
                       medicine and rehabilitation.
-                      <Link href="../../meet-our-team/rao-k-ali/">
+                      <Link href="/meet-our-team/rao-k-ali/">
                         Dr. Ali
                       </Link>{" "}
                       will discuss your treatment options and design a

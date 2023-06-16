@@ -13,7 +13,7 @@ export const Richardson = () => {
   return (
     <>
       <Head>
-        <title>Richardson | Premier Pain Centers</title>
+        <title>Pain Management Services in Richardson</title>
         <meta content="text/html; charset=utf-8" httpEquiv="Content-Type" />
         <meta content="initial-scale=1" name="viewport" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge,chrome=1" />
@@ -23,7 +23,10 @@ export const Richardson = () => {
         />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Premier Pain Centers" />
-        <meta property="og:title" content="Richardson | Premier Pain Centers" />
+        <meta
+          property="og:title"
+          content="Pain Management Services in Richardson"
+        />
         <meta
           property="og:description"
           content="Richardson. For quality pain management services from a friendly and caring team, call Premier Pain Centers today."
@@ -126,26 +129,18 @@ export const Richardson = () => {
             >
               <nav>
                 <header className="text-left">
-                  <Link href="../../about/">
+                  <Link href="/about/">
                     <h5>About</h5>
                   </Link>
                 </header>
                 <ul className="" data-role="panel">
                   <li className="level-1  ">
-                    <Link
-                      className="auto"
-                      href="../../meet-our-team/"
-                      target=""
-                    >
+                    <Link className="auto" href="/meet-our-team/" target="">
                       Our Providers
                     </Link>
                   </li>
                   <li className="level-1  ">
-                    <Link
-                      className="auto"
-                      href="../../about/careers/"
-                      target=""
-                    >
+                    <Link className="auto" href="/about/careers/" target="">
                       Careers
                     </Link>
                   </li>
@@ -244,46 +239,11 @@ export const Richardson = () => {
                     </ul>
                   </div>
                 </div>
-                <div
-                  className="scrolling-list-nav horizontal relative flex-middle-center top-margin-tiny"
-                  data-role="arrows"
-                >
-                  <Link
-                    href="#"
-                    onClick={(e) => {
-                      e.preventDefault();
-                    }}
-                    title="View previous item"
-                    aria-label="View previous item"
-                    data-action="Prev"
-                  >
-                    {/* <svg className="site-arrow">
-                      <use href="../../includes/flair.svg#arrow-left"></use>
-                    </svg> */}
-                  </Link>
-                  <span className="paging" data-role="paging">
-                    <span data-role="page-active"></span> /{" "}
-                    <span data-role="page-total"></span>
-                  </span>
-                  <Link
-                    href="#"
-                    onClick={(e) => {
-                      e.preventDefault();
-                    }}
-                    title="View next item"
-                    aria-label="View next item"
-                    data-action="Next"
-                  >
-                    {/* <svg className="site-arrow">
-                      <use href="../../includes/flair.svg#arrow-right"></use>
-                    </svg> */}
-                  </Link>
-                </div>
                 <div id="SideReviewsV1BtnConNew">
                   <div className="top-margin-small text-center">
                     <Link
                       className="btn v1"
-                      href="../../reviews/"
+                      href="/reviews/"
                       aria-labelledby="SideReviewsV1HeaderNew"
                     >
                       All reviews

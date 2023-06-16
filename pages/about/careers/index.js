@@ -84,18 +84,18 @@ export const Careers = () => {
               >
                 <nav>
                   <header className="text-left">
-                    <Link href="/about">
+                    <Link href="/about/">
                       <h5>About</h5>
                     </Link>
                   </header>
                   <ul className="" data-role="panel">
                     <li className="level-1  ">
-                      <Link className="auto" href="/meet-our-team" target="">
+                      <Link className="auto" href="/meet-our-team/" target="">
                         Our Providers
                       </Link>
                     </li>
                     <li className="level-1 selected ">
-                      <Link className="auto" href="/about/careers" target="">
+                      <Link className="auto" href="/about/careers/" target="">
                         Careers
                       </Link>
                     </li>

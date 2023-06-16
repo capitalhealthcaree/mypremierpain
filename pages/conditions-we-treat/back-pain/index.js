@@ -69,11 +69,8 @@ export const BackPain = () => {
                       Premier Pain Centers is fully equipped with the best
                       technologies and qualified doctors who can expertly treat
                       all types of spinal issues.
-                      <Link href="../../meet-our-team/rao-k-ali/">
-                        {" "}
-                        Dr. Ali{" "}
-                      </Link>{" "}
-                      is board-certified in physical medicine and rehabilitation
+                      <Link href="/meet-our-team/rao-k-ali/"> Dr. Ali </Link> is
+                      board-certified in physical medicine and rehabilitation
                       and will be happy to discuss treatment options with you.
                       Problems like nerve disorders, muscular disorders,
                       degenerative disc diseases, and arthritis are causing Back
@@ -125,9 +122,7 @@ export const BackPain = () => {
                       <li>Spondylitis</li>
                       <li>Certain type of cancers</li>
                       <li>Backbone injuries</li>
-                      <li>
-                        <Link href="">Back strain</Link>
-                      </li>
+                      <li>Back strain</li>
                       <li>Bone fissures</li>
                       <li>Subluxation</li>
                       <li>

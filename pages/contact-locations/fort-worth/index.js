@@ -13,9 +13,7 @@ export const FortWorth = () => {
   return (
     <>
       <Head>
-        <title>
-          Pain Management Services in Fort Worth | Premier Pain Centers
-        </title>
+        <title>Pain Management Physicians in Fort Worth</title>
         <meta content="text/html; charset=utf-8" httpEquiv="Content-Type" />
         <meta content="initial-scale=1" name="viewport" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge,chrome=1" />
@@ -123,18 +121,28 @@ export const FortWorth = () => {
             >
               <nav>
                 <header className="text-left">
-                  <Link href="">
-                    <h5>Fort Worth</h5>
+                  <Link href="/about/">
+                    <h5>About</h5>
                   </Link>
                 </header>
                 <ul className="" data-role="panel">
                   <li className="level-1  ">
+                    <Link className="auto" href="/meet-our-team/" target="">
+                      Our Providers
+                    </Link>
+                  </li>
+                  <li className="level-1  ">
+                    <Link className="auto" href="/about/careers/" target="">
+                      Careers
+                    </Link>
+                  </li>
+                  <li className="level-1  ">
                     <Link
                       className="auto"
-                      href="back-pain-fort-worth/"
-                      target=""
+                      href="../../assets/Rao-Ali-AR-1.pdf"
+                      rel="noreferrer"
                     >
-                      Back Pain Fort Worth
+                      Insurances Accepted
                     </Link>
                   </li>
                 </ul>
@@ -176,7 +184,6 @@ export const FortWorth = () => {
                             and his plan has helped reduce my pain
                             tremendously.&rdquo;
                           </strong>
-
                           <div className="top-margin-tiny">
                             <strong className="author">- Mikey D.</strong>
                           </div>
@@ -196,7 +203,6 @@ export const FortWorth = () => {
                             very good doctor that knows how to fix your pain and
                             he really cares about his patients.&rdquo;
                           </strong>
-
                           <div className="top-margin-tiny">
                             <strong className="author">- Ricky C.</strong>
                           </div>
@@ -217,7 +223,6 @@ export const FortWorth = () => {
                             out no pain at all he stayed on the phone the whole
                             time.&rdquo;
                           </strong>
-
                           <div className="top-margin-tiny">
                             <strong className="author">- Shannon S.</strong>
                           </div>
@@ -226,46 +231,11 @@ export const FortWorth = () => {
                     </ul>
                   </div>
                 </div>
-                <div
-                  className="scrolling-list-nav horizontal relative flex-middle-center top-margin-tiny"
-                  data-role="arrows"
-                >
-                  <Link
-                    href="#"
-                    onClick={(e) => {
-                      e.preventDefault();
-                    }}
-                    title="View previous item"
-                    aria-label="View previous item"
-                    data-action="Prev"
-                  >
-                    {/* <svg className="site-arrow">
-                      <use href="../../includes/flair.svg#arrow-left"></use>
-                    </svg> */}
-                  </Link>
-                  <span className="paging" data-role="paging">
-                    <span data-role="page-active"></span> /{" "}
-                    <span data-role="page-total"></span>
-                  </span>
-                  <Link
-                    href="#"
-                    onClick={(e) => {
-                      e.preventDefault();
-                    }}
-                    title="View next item"
-                    aria-label="View next item"
-                    data-action="Next"
-                  >
-                    {/* <svg className="site-arrow">
-                      <use href="../../includes/flair.svg#arrow-right"></use>
-                    </svg> */}
-                  </Link>
-                </div>
                 <div id="SideReviewsV1BtnConNew">
                   <div className="top-margin-small text-center">
                     <Link
                       className="btn v1"
-                      href="../../reviews/"
+                      href="/reviews/"
                       aria-labelledby="SideReviewsV1HeaderNew"
                     >
                       All reviews

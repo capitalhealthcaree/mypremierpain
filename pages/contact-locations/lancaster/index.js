@@ -13,7 +13,7 @@ export const Lancaster = () => {
   return (
     <>
       <Head>
-        <title>Lancaster | Pain Management in Richardson</title>
+        <title>Spine and Pain Management in Lancaster</title>
         <meta content="text/html; charset=utf-8" httpEquiv="Content-Type" />
         <meta content="initial-scale=1" name="viewport" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge,chrome=1" />
@@ -27,7 +27,10 @@ export const Lancaster = () => {
           property="og:url"
           content={`${process.env.NEXT_PUBLIC_URL_DOMAIN}${router.asPath}`}
         />
-        <meta property="og:title" content="Lancaster | Premier Pain Centers" />
+        <meta
+          property="og:title"
+          content="Spine and Pain Management in Lancaster"
+        />
         <meta
           property="og:description"
           content="Lancaster. For quality pain management services from a friendly and caring team, call Premier Pain Centers today."
@@ -123,26 +126,18 @@ export const Lancaster = () => {
             >
               <nav>
                 <header className="text-left">
-                  <Link href="../../about/">
+                  <Link href="/about/">
                     <h5>About</h5>
                   </Link>
                 </header>
                 <ul className="" data-role="panel">
                   <li className="level-1  ">
-                    <Link
-                      className="auto"
-                      href="../../meet-our-team/"
-                      target=""
-                    >
+                    <Link className="auto" href="/meet-our-team/" target="">
                       Our Providers
                     </Link>
                   </li>
                   <li className="level-1  ">
-                    <Link
-                      className="auto"
-                      href="../../about/careers/"
-                      target=""
-                    >
+                    <Link className="auto" href="/about/careers/" target="">
                       Careers
                     </Link>
                   </li>
@@ -244,46 +239,11 @@ export const Lancaster = () => {
                     </ul>
                   </div>
                 </div>
-                <div
-                  className="scrolling-list-nav horizontal relative flex-middle-center top-margin-tiny"
-                  data-role="arrows"
-                >
-                  <Link
-                    href="#"
-                    onClick={(e) => {
-                      e.preventDefault();
-                    }}
-                    title="View previous item"
-                    aria-label="View previous item"
-                    data-action="Prev"
-                  >
-                    {/* <svg className="site-arrow">
-                      <use href="../../includes/flair.svg#arrow-left"></use>
-                    </svg> */}
-                  </Link>
-                  <span className="paging" data-role="paging">
-                    <span data-role="page-active"></span> /{" "}
-                    <span data-role="page-total"></span>
-                  </span>
-                  <Link
-                    href="#"
-                    onClick={(e) => {
-                      e.preventDefault();
-                    }}
-                    title="View next item"
-                    aria-label="View next item"
-                    data-action="Next"
-                  >
-                    {/* <svg className="site-arrow">
-                      <use href="../../includes/flair.svg#arrow-right"></use>
-                    </svg> */}
-                  </Link>
-                </div>
                 <div id="SideReviewsV1BtnConNew">
                   <div className="top-margin-small text-center">
                     <Link
                       className="btn v1"
-                      href="../../reviews/"
+                      href="/reviews/"
                       aria-labelledby="SideReviewsV1HeaderNew"
                     >
                       All reviews

@@ -203,7 +203,7 @@ export const LegPain = () => {
                       symptoms. If therapy is required, success rates improve
                       with a proper diagnosis. However, with the help of our
                       staff of{" "}
-                      <Link href="https://www.mypremierpain.com/contact-locations/north-richland-hills/">
+                      <Link href="/contact-locations/north-richland-hills/">
                         {" "}
                         North Richland Hills leg pain treatment,
                       </Link>{" "}
@@ -221,7 +221,7 @@ export const LegPain = () => {
                       soreness, particularly on one side, are symptoms.
                       Sometimes this feeling occurs solely when you're on your
                       feet. This information has been confirmed by{" "}
-                      <Link href="https://www.mypremierpain.com/contact-locations/hillsboro/">
+                      <Link href="/contact-locations/hillsboro/">
                         {" "}
                         Hillsboro leg pain treatment.{" "}
                       </Link>
@@ -235,7 +235,7 @@ export const LegPain = () => {
                       the muscles and even bone pain are felt around the shin
                       bone when shin splints are present. This cause has been
                       confirmed by the team of
-                      <Link href="https://www.mypremierpain.com/contact-locations/hillsboro/">
+                      <Link href="/contact-locations/hillsboro/">
                         {" "}
                         Decatur leg pain treatment.{" "}
                       </Link>
@@ -249,7 +249,7 @@ export const LegPain = () => {
                       from the fractures. These cases typically necessitate
                       immediate medical treatment.<br></br>
                       However, our{" "}
-                      <Link href="https://www.mypremierpain.com/contact-locations/lancaster/">
+                      <Link href="/contact-locations/lancaster/">
                         {" "}
                         Lancaster leg pain treatment{" "}
                       </Link>{" "}
@@ -267,7 +267,7 @@ export const LegPain = () => {
                       dangerously high muscle pressures that occur from the
                       injury. A broken bone or very bad bruises could be to
                       blame. This information has been confirmed by{" "}
-                      <Link href="https://www.mypremierpain.com/contact-locations/farmers-branch/">
+                      <Link href="/contact-locations/farmers-branch/">
                         {" "}
                         Farmers Branch's leg pain treatment.
                       </Link>{" "}
@@ -287,7 +287,7 @@ export const LegPain = () => {
                       stride (the way they walk) may vary, putting stress on
                       other joints and muscles. This cause has been confirmed by
                       the{" "}
-                      <Link href="https://www.mypremierpain.com/contact-locations/corsicana/">
+                      <Link href="/contact-locations/corsicana/">
                         {" "}
                         Corsicana leg pain treatment.{" "}
                       </Link>

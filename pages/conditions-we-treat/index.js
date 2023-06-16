@@ -410,7 +410,7 @@ export const ConditionsWeTreat = () => {
               <li className="flex-" data-item="i" data-key="75437">
                 <Link
                   className="flex-column-center-middle auto scaling-img-item  relative full bg-box text-center side-padding-large vertical-padding-medium border-radius-item"
-                  href="../patient-info/"
+                  href="/patient-info/"
                 >
                   <picture className="img-bg">
                     <source
@@ -618,7 +618,7 @@ export const ConditionsWeTreat = () => {
                           </p>
                           <ul className="bullt-list v1 split flex-wrap-spaced-between-block-800">
                             <li>
-                              <Link href="car-accident-injury/">
+                              <Link href="/car-accident-injury/">
                                 Car accident injury
                               </Link>
                             </li>
@@ -792,41 +792,6 @@ export const ConditionsWeTreat = () => {
                           </blockquote>
                         </li>
                       </ul>
-                      <div
-                        className="scrolling-list-nav horizontal relative flex-middle-center top-margin-tiny"
-                        data-role="arrows"
-                      >
-                        <Link
-                          href="#"
-                          onClick={(e) => {
-                            e.preventDefault();
-                          }}
-                          title="View previous item"
-                          aria-label="View previous item"
-                          data-action="Prev"
-                        >
-                          {/* <svg className="site-arrow">
-                            <use href="../includes/flair.svg#arrow-left"></use>
-                          </svg> */}
-                        </Link>
-                        <span className="paging" data-role="paging">
-                          <span data-role="page-active"></span> /{" "}
-                          <span data-role="page-total"></span>
-                        </span>
-                        <Link
-                          href="#"
-                          onClick={(e) => {
-                            e.preventDefault();
-                          }}
-                          title="View next item"
-                          aria-label="View next item"
-                          data-action="Next"
-                        >
-                          {/* <svg className="site-arrow">
-                            <use href="../includes/flair.svg#arrow-right"></use>
-                          </svg> */}
-                        </Link>
-                      </div>
                     </div>
                   </div>
                 </div>
@@ -861,9 +826,6 @@ export const ConditionsWeTreat = () => {
                   <header className="text-align center-800" id="ValuesV8Header">
                     <h4>HOW WE STAND OUT</h4>
                     <strong>Nothing But the Best Care</strong>
-                    {/* <svg className="header-flair">
-                      <use href="../includes/flair.svg#header"></use>
-                    </svg> */}
                   </header>
                   <ul className="values-list ui-repeater" id="ValuesV7Feed">
                     <li

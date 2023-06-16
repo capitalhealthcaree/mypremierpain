@@ -307,7 +307,7 @@ export const About = () => {
               >
                 <Link
                   className="relative flex-column full scaling-img-item bg-box staff-item"
-                  href="../meet-our-team/rao-k-ali/"
+                  href="/meet-our-team/rao-k-ali/"
                 >
                   <div className="img pad-height-100 bg-position full">
                     <Image
@@ -341,7 +341,7 @@ export const About = () => {
               >
                 <Link
                   className="relative flex-column full scaling-img-item bg-box staff-item"
-                  href="../meet-our-team/dr-muhammad-zulqarnain-dr-z-/"
+                  href="/meet-our-team/dr-muhammad-zulqarnain-dr-z-/"
                 >
                   <div className="img pad-height-100 bg-position full">
                     <Image
@@ -375,7 +375,7 @@ export const About = () => {
               >
                 <Link
                   className="relative flex-column full scaling-img-item bg-box staff-item"
-                  href="../meet-our-team/ranjit-sandhu/"
+                  href="/meet-our-team/ranjit-sandhu/"
                 >
                   <div className="img pad-height-100 bg-position full">
                     <Image
@@ -406,7 +406,7 @@ export const About = () => {
           <div id="StaffV3Btn">
             <div className="text-center top-margin">
               <Link
-                href="../meet-our-team/"
+                href="/meet-our-team/"
                 aria-labelledby="StaffV3Header"
                 className="btn v1"
               >

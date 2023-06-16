@@ -76,34 +76,6 @@ export const NeckPain = () => {
                       only when you move it, or it may be painful all the time.
                       Symptoms of pain can range from temporary to persistent,
                       and may require medical treatment and diagnosis.
-                      {/* If you experience chronic or acute or pain in your neck
-                      and/or along your back, our medical experts at Premier
-                      Pain Centers are dedicated to diagnosing and treating your
-                      issues. Neck pain is one of the most common reasons people
-                      visit doctors in the US, as this persistent problem can be
-                      caused by a number of factors, including injuries
-                      sustained while playing&nbsp;
-                      <Link href="/conditions-we-treat/sports-injury/">
-                        sports
-                      </Link>{" "}
-                      or in a&nbsp;
-                      <Link href="/conditions-we-treat/car-accident-injury/">
-                        car accident
-                      </Link>
-                      . Our staff keeps up-to-date on the latest treatments and
-                      techniques to ensure you receive high quality care to help
-                      you recover. If you read this, you are probably familiar
-                      with neck pain. Whether you recently woke up with a
-                      whopper crick in your neck, sustained an injury, or are
-                      experiencing chronic neck pain, this helpful guide can
-                      help you understand the anatomy of your cervical spine,
-                      the different causes, and types of neck pain, and
-                      you&rsquo;ll be able to know more about the common ways
-                      on&nbsp;
-                      <Link href="https://www.mypremierpain.com/contact-locations/richardson/">
-                        Treating neck pain in Richardson
-                      </Link>
-                      . */}
                     </p>
                     <p
                       align="center"
@@ -113,9 +85,7 @@ export const NeckPain = () => {
                         Call us at
                         <Link href="tel:469-562-4188"> 469-562-4188</Link>{" "}
                         or&nbsp;
-                        <Link href="/contact-locations/">
-                          contact us
-                        </Link>{" "}
+                        <Link href="/contact-locations/">contact us</Link>{" "}
                         online to schedule an appointment.
                       </b>
                     </p>
